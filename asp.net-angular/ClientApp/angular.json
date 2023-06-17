@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "asp.net_angular"
+  "defaultProject": "asp.net_angular",
+  "cli": {
+    "analytics": false
+  }
 }
